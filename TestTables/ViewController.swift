@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     
+    // The color that each cell's text will be
     private var selectedProficiencyColor: UIColor = .systemBlue
     
     
