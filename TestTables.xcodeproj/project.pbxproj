@@ -15,6 +15,7 @@
 		329BE3FD2739AC4C00FA4342 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 329BE3FB2739AC4C00FA4342 /* LaunchScreen.storyboard */; };
 		329BE4082739AC4C00FA4342 /* TestTablesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329BE4072739AC4C00FA4342 /* TestTablesTests.swift */; };
 		329BE4132739AC4C00FA4342 /* TestTablesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329BE4122739AC4C00FA4342 /* TestTablesUITests.swift */; };
+		329BE4242739AE1B00FA4342 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 329BE4232739AE1B00FA4342 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		329BE40E2739AC4C00FA4342 /* TestTablesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTablesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		329BE4122739AC4C00FA4342 /* TestTablesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTablesUITests.swift; sourceTree = "<group>"; };
 		329BE4142739AC4C00FA4342 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		329BE4232739AE1B00FA4342 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				329BE3F92739AC4C00FA4342 /* Assets.xcassets */,
 				329BE3FB2739AC4C00FA4342 /* LaunchScreen.storyboard */,
 				329BE3FE2739AC4C00FA4342 /* Info.plist */,
+				329BE4232739AE1B00FA4342 /* Data.swift */,
 			);
 			path = TestTables;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				329BE3F52739AC4100FA4342 /* ViewController.swift in Sources */,
 				329BE3F12739AC4100FA4342 /* AppDelegate.swift in Sources */,
 				329BE3F32739AC4100FA4342 /* SceneDelegate.swift in Sources */,
+				329BE4242739AE1B00FA4342 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
